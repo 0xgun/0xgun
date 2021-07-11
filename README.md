@@ -6,10 +6,10 @@
 
  <br>
   <a href="https://www.instagram.com/gun_029/">
-    <img align="center" alt="mganeshan29 | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="mganeshan29 | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:ganeshanmadesh36@gmail.com">
-    <img align="center" alt="mganeshan29 | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="mganeshan29 | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 <br><br><br>
 <!---
