@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/gun_029/">
     <img align="left" alt="mganeshan29 | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:ganeshanmadesh36@gmail.com">
+  <a href="mailto:ganeshanmadesh36@outlook.com">
     <img align="left" alt="mganeshan29 | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 <br><br><br>
