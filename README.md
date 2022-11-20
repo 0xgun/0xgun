@@ -17,4 +17,7 @@
 mganeshan29/mganeshan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mganeshan29)](https://github.com/mganeshan29/github-readme-stats)
+[![Ganeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mganeshan29)](https://github.com/mganeshan29/github-readme-stats)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mganeshan29&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mganeshan29&repo=nft_marketplace)](https://github.com/mganeshan29/nft_marketplace)
