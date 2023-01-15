@@ -2,7 +2,7 @@
 
 
 <!---
-mganeshan29/mganeshan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0xgun/0xgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 ![Android](https://img.shields.io/badge/Android-%23000000.svg?style=flat&logo=android&logoColor=green)
 ![Linux](https://img.shields.io/badge/linux%20-000000?style=flat&logo=linux&logoColor=F0F0F0)
 
-<!-- ![](https://komarev.com/ghpvc/?username=mganeshan29&color=green) -->
+<!-- ![](https://komarev.com/ghpvc/?username=0xgun&color=green) -->
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -46,9 +46,9 @@ You can click the Preview link to take a look at your changes.
 <p>
 <br/>
 <p align="left">
-  <a href="https://github.com/mganeshan29">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mganeshan29&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mganeshan29&theme=blueberry&hide_border=true" />
+  <a href="https://github.com/0xgun">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=0xgun&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xgun&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mganeshan29&theme=blueberry&hide_border=true&repo=nft_marketplace)](https://github.com/mganeshan29/nft_marketplace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xgun&theme=blueberry&hide_border=true&repo=nft_marketplace)](https://github.com/0xgun/nft_marketplace)
 
 
 
