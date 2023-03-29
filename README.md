@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <p align="left">
   <a href="https://github.com/0xgun">
-<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=0xgun&show_icons=true&theme=blueberry&hide_border=true" /> -->
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=0xgun&show_icons=true&theme=blueberry&hide_border=true" /> 
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xgun&theme=blueberry&hide_border=true" />
   </a>
 </p>
