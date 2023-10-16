@@ -56,8 +56,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xgun&theme=blueberry&hide_border=true&repo=nft_marketplace)](https://github.com/0xgun/nft_marketplace)
-
+-->
 
 
   
